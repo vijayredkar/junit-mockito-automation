@@ -1,0 +1,22 @@
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective settings
+[WARNING] Unrecognised tag: 'repository' (position: START_TAG seen ...</profiles>\r\n\r\n  \t<repository>... @249:16)  @ C:\Vijay\Java\apache-maven-3.6.3\bin\..\conf\settings.xml, line 249, column 16
+[WARNING] 
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< org.apache.maven:standalone-pom >-------------------
+[INFO] Building Maven Stub Project (No POM) 1
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.675 s
+[INFO] Finished at: 2023-10-30T22:01:27-07:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-dependency-plugin:2.8:tree (default-cli): Goal requires a project to execute but there is no POM in this directory (C:\Vijay\Java\projects\junit-mockito-mgt\test-projects\spring-boot-h2-database-crud\src\main\java\com\bezkoder\spring\jpa\h2). Please verify you invoked Maven from the correct directory. -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
