@@ -1,5 +1,8 @@
 # junit-mockito-automation
-junit-mockito-automation : Automatically produce Junits for SpringBoot-Maven Applications
+Automatically produce Junits for SpringBoot-Maven Applications
+
+1. Problem statement & solution approach - https://vijayredkar.medium.com/
+2. Archit
 
 Demo Video - https://www.youtube.com/playlist?list=PLc1rvPSTuG4sUQRgrhoyLa-3BPlQHYdth
 
