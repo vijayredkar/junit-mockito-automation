@@ -1,8 +1,3 @@
-
-Local Kafka setup
-
-download and install - https://www.tutorialspoint.com/apache_kafka/apache_kafka_installation_steps.htm
-Zookeeper start cmd - <Kafka_install_dir>\bin\windows\zookeeper-server-start.bat <Kafka_install_dir>\config\zookeeper.properties
-Kafka-server start cmd - <Kafka_install_dir>\bin\windows\kafka-server-start.bat <Kafka_install_dir>\config\server.properties
-
+Demo Video - https://www.youtube.com/playlist?list=PLc1rvPSTuG4sUQRgrhoyLa-3BPlQHYdth
+Medium     - https://vijayredkar.medium.com/banknext-case-study-junit-mockito-automation-ac9f6b72cfcc
 
